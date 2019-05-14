@@ -1,5 +1,0 @@
-/docs/_build
-/docs/Makefile
-/src/*.egg-info
-__pycache__
-.ovh-osp
